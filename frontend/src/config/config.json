@@ -1,0 +1,6 @@
+{
+  "taxRate": 1.25,
+  "discountRate": 0.10,
+  "taskRate": 1.25,
+  "specialDiscount": 0.15
+}
